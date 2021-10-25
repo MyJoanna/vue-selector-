@@ -239,7 +239,7 @@ Vue.use(vueSelector)
 </script>
 ```
 
-![效果图 效果图](https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/926b6f471ffd9c254b72fbb61ba5df70)
+<img src="https://www.showdoc.com.cn/server/api/attachment/visitfile/sign/926b6f471ffd9c254b72fbb61ba5df70" width="100%">
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
